@@ -1,6 +1,6 @@
 # Prices-table-layout
 
-### [Site link](https://nikgolitsyn.github.io/price-tables/)
+### [Site link](https://watcher1986.github.io/Prices-table-layout/)
 
 Static non responsive page
 
